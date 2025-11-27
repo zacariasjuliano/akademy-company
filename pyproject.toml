@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "akademy_company"
-version = "1.0"
+version = "1.0.1"
 description = "O SAGE Education é um projeto livre e gratuito para educadores, instituições de ensino e governos."
 authors = [
     { name = "Zacarias Juliano Capingala", email = "zacariasjuliano@gmail.com" }
@@ -13,7 +13,8 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = { text = "GPL-3.0-or-later" }
 dependencies = [
-    "akademy_party==1.0"
+    "akademy_party==1.0",
+    "trytond-company==6.8"
 ]
 
 [project.urls]
