@@ -4,7 +4,7 @@ this repository contains the full copyright notices and license terms. -->
 
 <trytond>
 	<data>
-        <!-- start RELATÓRIO DA INSTITUIÇÃO -->
+        <!-- start company_report -->
         <record model="ir.action.report" id="company_report">
             <field name="name">Instituição</field>
             <field name="report_name">akademy_report.company.report</field>
@@ -16,9 +16,8 @@ this repository contains the full copyright notices and license terms. -->
             <field name="model">company.company,-1</field>
             <field name="action" ref="company_report"/>
         </record>
-        <!-- start RELATÓRIO DA INSTITUIÇÃO -->
 
-        <!-- start RELATÓRIO DE FUNCIONÁRIOS -->
+        <!-- start employee_report -->
         <record model="ir.action.report" id="employee_report">
             <field name="name">Funcionários</field>
             <field name="report_name">akademy_report.company.employee.report</field>
@@ -30,9 +29,8 @@ this repository contains the full copyright notices and license terms. -->
             <field name="model">company.employee,-1</field>
             <field name="action" ref="employee_report"/>
         </record>
-        <!-- start RELATÓRIO DE FUNCIONÁRIOS -->
 
-        <!-- start RELATÓRIO DE DISCENTE -->
+        <!-- start student_report -->
         <record model="ir.action.report" id="student_report">
             <field name="name">Discente</field>
             <field name="report_name">akademy_report.company.student.report</field>
@@ -44,9 +42,6 @@ this repository contains the full copyright notices and license terms. -->
             <field name="model">company.student,-1</field>
             <field name="action" ref="student_report"/>
         </record>
-        <!-- start RELATÓRIO DE DISCENTE -->
-
-
         
 	</data>
 </trytond>

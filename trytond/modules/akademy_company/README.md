@@ -1,27 +1,28 @@
-# 🏫 SAGE Education - Gestão Institucional / ERP
+# 🏫 SAGE Education - Institutional Management / ERP
 
-**Versão:** 1.0  
-**Módulo:** SAGE Education  
-**Desenvolvedor:** Zacarias Juliano Capingala *(Homem Marketing)*  
-**Data:** 21/11/2025
-
----
-
-## 📘 Sobre o Projeto
-
-**O SAGE Education** é um projeto ***livre e gratuito*** para ***educadores, instituições de ensino e governos***.
-Ele fornece a funcionalidade de **Sistema de Gestão Académica (SGA), Sistema de Gestão Escolar (SGE) e Sistema de Informação Educacional (SIE)**.
-O seu design ***modular, escalável e seguro*** permite que seja implementado em muitos cenários diferentes: desde **pequenas escolas** e **centros de formação** até **grandes sistemas nacionais de educação pública**.
-
-O SAGE Education conta com uma comunidade crescente, comprometida e amigável que traz o melhor dos campos das ***ciências da educação, pedagogia, tecnologia educacional e ciências da computação***.
-Não importa onde no mundo você vive, somos apaixonados por manter a educação e a tecnologia educacional como um direito humano inegociável.
-Esperamos que você considere o **SAGE Education** motivador e inspirador, e estamos ansiosos para tê-lo como parte da equipe.
+**Version:** 1.0  
+**Module:** Akademy Company 
+**Developer:** Zacarias Juliano Capingala *(Homem Marketing)*  
+**Date:** 21/11/2025
 
 ---
 
-## ⚙️ Módulo Akademy Company
+## 📘 About the Project
 
-O **Akademy Company (Gestão de Instituições)** é um módulo complementar responsável **expandir as funcionalidades** do módulo de **Gestão de Organizaçõe**, oferecendo ferramentas avançadas para administração organizações.  
+**SAGE Education** is a ***free and open-source*** project for ***educators, educational institutions, and governments***.
+It provides the functionality of **Academic Management System (AMS), School Management System (SMS), and Educational Information System (EIS)**.
+Its ***modular, scalable, and secure*** design allows it to be implemented in many different scenarios: from **small schools** and **training centers** to **large national public education systems**.
+
+SAGE Education has a growing, committed, and friendly community that brings together the best in the fields of ***educational sciences, pedagogy, educational technology, and computer science***.
+No matter where in the world you live, we are passionate about upholding education and educational technology as a non-negotiable human right.
+
+We hope you find **SAGE Education** motivating and inspiring, and we look forward to having you as part of the team.
+
+---
+
+## ⚙️ Akademy Company Modulo
+
+The **Akademy Company (Institution Management)** module is a complementary module responsible for **expanding the functionalities** of the **Organization Management** module, offering advanced tools for managing organizations. 
 
 ---
 
@@ -33,11 +34,10 @@ O **Akademy Company (Gestão de Instituições)** é um módulo complementar res
 
 ---
 
-## 💬 Suporte Técnico
+## 💬 Technical Support
 
-Caso encontre erros ou deseje obter suporte técnico, entre em contato pelos canais abaixo:
+If you encounter any errors or require technical support, please contact us through the channels below:
 
-- 📧 **E-mail:** [suporte@comunidadedosaber.ao](mailto:suporte@comunidadedosaber.ao)  
+- 📧 **E-mail:** [suporte@comunidadedosaber.ao](mailto:suporte@comunidadedosaber.ao)
 - 💬 **WhatsApp:** [+244 926 585 345](https://wa.me/244926585345)
-
 
