@@ -95,8 +95,12 @@ msgid "Responsável"
 msgstr "Responsável"
 
 msgctxt "field:company.student.supervisor,phone_number:"
-msgid "Número de telefone"
-msgstr "Número de Telefone"
+msgid "Telefone"
+msgstr "Telefone"
+
+msgctxt "field:company.student.supervisor,is_primary:"
+msgid "Principal"
+msgstr "Principal"
 
 msgctxt "field:company.student.supervisor,student:"
 msgid "Discente"
@@ -141,6 +145,10 @@ msgstr "Nome da instituição."
 msgctxt "help:company.student.supervisor,phone_number:"
 msgid "Número de telefone"
 msgstr "Número de Telefone"
+
+msgctxt "help:company.student.supervisor,is_primary:"
+msgid "Indica se é o encarregado principal"
+msgstr "Indica se é o encarregado principal."
 
 msgctxt "error:company.student:"
 msgid ""
