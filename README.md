@@ -20,7 +20,7 @@ We hope you find **SAGE Education** motivating and inspiring, and we look forwar
 
 ---
 
-## ⚙️ Akademy Company Module
+## Akademy Company Module
 
 The **Akademy Company (Institution Management)** module is a complementary module responsible for **expanding the functionalities** of the **Organization Management** module, offering advanced tools for managing organizations. 
 
