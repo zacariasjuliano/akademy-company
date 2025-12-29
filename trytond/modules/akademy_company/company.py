@@ -150,11 +150,16 @@ class Student(ModelSQL, ModelView):
 
     @staticmethod
     def default_company():
+        """
+        Defines the default company for new students.
+        Otherwise, it uses the company from the context.
+        """
+        
         transaction = Transaction()
         if transaction:
             return transaction.company
             
-        #return Transaction().context.get('company')
+        return Transaction().context.get('company')
 
     def get_rec_name(self, name):
         return self.party.rec_name
