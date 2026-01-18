@@ -128,9 +128,8 @@ class Student(ModelSQL, ModelView):
             ], ondelete="RESTRICT",
         help="Nome do discente.")
     company = fields.Many2One(
-        'company.company', 'Instituição',
-        readonly=True, ondelete="RESTRICT",
-        help="Nome da instituição.")     
+        'company.company', 'Instituição', required=True, 
+        ondelete="RESTRICT", help="Nome da instituição.")     
     student_supervisor = fields.One2Many('company.student.supervisor', 
         'student', 'Discente')      
     
@@ -154,11 +153,7 @@ class Student(ModelSQL, ModelView):
         Defines the default company for new students.
         Otherwise, it uses the company from the context.
         """
-        
-        transaction = Transaction()
-        if transaction:
-            return transaction.company
-            
+                    
         return Transaction().context.get('company')
 
     def get_rec_name(self, name):
