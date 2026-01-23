@@ -1,7 +1,22 @@
 # Changelog
 All changes made in **akademy-company** project will be listed in this file.
 
-The format as follows the recomendations of [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/). And Semantic Versioning
+The format as follows the recomendations of [Keep a Changelog](https://keepachangelog.com/pt-BR/1.0.0/). And Semantic Versioning 
+
+
+## [1.1.1] - 2026-01-18
+### Changed
+- Student registration, now allows the user to select the desired institution.
+
+
+## [1.1.0] - 2026-01-18
+### Changed
+- Start update to Tryton version 7.0
+
+
+## [1.0.6] - 2026-01-10
+### Changed
+- Report Default PDF
 
 
 ## [1.0.5] - 2026-01-02
