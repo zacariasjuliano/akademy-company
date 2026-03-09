@@ -193,3 +193,11 @@ msgstr "Funcionários"
 msgctxt "model:ir.action,name:student_report"
 msgid "Discente"
 msgstr "Discente"
+
+msgctxt "view:company.company:"
+msgid "Discentes"
+msgstr "Discentes"
+
+msgctxt "view:company.student:"
+msgid "Encarregado"
+msgstr "Encarregado"
